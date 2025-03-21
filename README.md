@@ -28,4 +28,14 @@ Weathi is an iOS weather app built with Swift, UIKit, CoreData, and OpenWeather 
 
 - ## Screenshots
 
-![Simulator Screenshot - iPhone 16 Pro - 2025-03-21 at 12 14 24](https://github.com/user-attachments/assets/f6050850-bb59-46fb-bab3-b38707ab9604)
+<p float="left">
+  <img src="[https://github.com/fnvc666/DayFlowUIKit/blob/main/Screenshots/Simulator%20Screenshot%20-%20iPhone%2016%20Pro%20-%202025-03-06%20at%2011.47.50.png?raw=true](https://github.com/fnvc666/WeathiUIKit/tree/main/Screenshots#:~:text=29%20minutes%20ago-,main(sunny).png,-Initial%20commit)" alt="Screenshot 1" width="300" />
+  <img src="[https://github.com/fnvc666/DayFlowUIKit/blob/main/Screenshots/Simulator%20Screenshot%20-%20iPhone%2016%20Pro%20-%202025-03-06%20at%2011.50.45.png?raw=true](https://github.com/fnvc666/WeathiUIKit/tree/main/Screenshots#:~:text=29%20minutes%20ago-,main(clouds).png,-Initial%20commit)" alt="Screenshot 2" width="300" />
+  <img src="[https://github.com/fnvc666/DayFlowUIKit/blob/main/Screenshots/Simulator%20Screenshot%20-%20iPhone%2016%20Pro%20-%202025-03-06%20at%2011.51.12.png?raw=true](https://github.com/fnvc666/WeathiUIKit/tree/main/Screenshots#:~:text=31%20minutes%20ago-,main(rain).png,-Initial%20commit)" alt="Screenshot 3" width="300" />
+  <img src="https://github.com/fnvc666/DayFlowUIKit/blob/main/Screenshots/Simulator%20Screenshot%20-%20iPhone%2016%20Pro%20-%202025-03-06%20at%2011.56.22.png?raw=true" alt="Screenshot 4" width="300" />
+  <img src="[https://github.com/fnvc666/DayFlowUIKit/blob/main/Screenshots/Simulator%20Screenshot%20-%20iPhone%2016%20Pro%20-%202025-03-06%20at%2011.59.24.png?raw=true](https://github.com/fnvc666/WeathiUIKit/tree/main/Screenshots#:~:text=..-,history.png,-Initial%20commit)" alt="Screenshot 5" width="300" />
+  <img src="https://github.com/fnvc666/DayFlowUIKit/blob/main/Screenshots/Simulator%20Screenshot%20-%20iPhone%2016%20Pro%20-%202025-03-06%20at%2012.00.09.png?raw=true" alt="Screenshot 6" width="300" />
+  <img src="[https://github.com/fnvc666/DayFlowUIKit/blob/main/Screenshots/Simulator%20Screenshot%20-%20iPhone%2016%20Pro%20-%202025-03-06%20at%2012.00.13.png?raw=true](https://github.com/fnvc666/WeathiUIKit/tree/main/Screenshots#:~:text=31%20minutes%20ago-,settings.png,-Initial%20commit)" alt="Screenshot 7" width="300" />
+  <img src="https://github.com/fnvc666/WeathiUIKit/tree/main/Screenshots#:~:text=45%20minutes%20ago-,search.png,-Initial%20commit" alt="Screenshot 8" width="300" />
+</p>
+
