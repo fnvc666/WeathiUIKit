@@ -18,6 +18,7 @@ Weathi is an iOS weather app built with Swift, UIKit, CoreData, and OpenWeather 
 
 - Language: Swift
 - Framework: UIKit
+
 - Architecture: MVC + ViewModel (aka MVVC)
 - Data Persistence: CoreData, UserDefaults
 - Networking: URLSession, JSONDecoder
@@ -26,3 +27,5 @@ Weathi is an iOS weather app built with Swift, UIKit, CoreData, and OpenWeather 
 - API: OpenWeatherMap
 
 - ## Screenshots
+
+![Simulator Screenshot - iPhone 16 Pro - 2025-03-21 at 12 14 24](https://github.com/user-attachments/assets/f6050850-bb59-46fb-bab3-b38707ab9604)
